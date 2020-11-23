@@ -1,0 +1,4 @@
+[submodule "src/rclada_examples"]
+	path = src/rclada_examples
+	url = https://github.com/ada-ros/rclada_examples.git
+	branch = foxy
